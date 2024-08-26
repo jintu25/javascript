@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: #03000a;
+    border-radius: 10px;
+} */
+.items{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background: #03000a;
+    border-radius: 50%;
+    margin-right: 10px;
+}
